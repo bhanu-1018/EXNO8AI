@@ -1,7 +1,7 @@
 # EXNO8AI
 Logic Programming –  Medical Diagnosis Expert System
 ### DATE:                                                                            
-### REGISTER NUMBER : 212222040173
+### REGISTER NUMBER : 212221060180
 ### AIM: 
 Write a Prolog program to build a medical Diagnosis Expert System.
 ###  Algorithm:

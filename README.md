@@ -1,6 +1,6 @@
 # EXNO8AI
 Logic Programming –  Medical Diagnosis Expert System
-### DATE: 16-09-2024
+### DATE: 17/02/2025
 
 ### REGISTER NUMBER : 212221060180
 ### AIM: 
